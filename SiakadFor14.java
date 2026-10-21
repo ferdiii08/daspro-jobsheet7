@@ -21,3 +21,4 @@ public class SiakadFor14 {
         System.out.println("Nilai terendah: " + terendah);
     }
 }
+
